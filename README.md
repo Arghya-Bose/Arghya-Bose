@@ -115,9 +115,8 @@ class Arghya : Developer {
 A multilingual e-learning application providing structured courses, hands-on learning experiences, and certification.
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-7F52FF?style=flat-square&logo=openjdk&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -146,12 +145,10 @@ A decentralized application exploring blockchain technology and Web3 concepts.
 </td>
 <td width="50%" valign="top">
 
-### Cloud Pharmacy Management System
+### Pharmacy Management System
 A cloud-based pharmacy management solution designed to manage pharmacy operations and data.
 
-![Cloud](https://img.shields.io/badge/Cloud-0078D4?style=flat-square&logo=icloud&logoColor=white)
 ![Database](https://img.shields.io/badge/Database%20Management-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Full-Stack](https://img.shields.io/badge/Full--Stack-58A6FF?style=flat-square)
 
 </td>
 </tr>
@@ -161,12 +158,12 @@ A cloud-based pharmacy management solution designed to manage pharmacy operation
 
 ## Achievements & Certifications
 
-- 🥇 **Outstanding Student Award – 2024**
-- 🎓 Google Professional Certifications
-- 🎓 IBM Certifications
-- 🎓 Meta Certifications
-- 🎓 Microsoft Certifications
-- 📱 Contributing to the production Android application of **Bdjobs.com Ltd.**
+- **Outstanding Student Award – 2024**
+- Google Professional Certifications
+- IBM Certifications
+- Meta Certifications
+- Microsoft Certifications
+- Contributing to the production Android application of **Bdjobs.com Ltd.**
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Arghya-Bose&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
