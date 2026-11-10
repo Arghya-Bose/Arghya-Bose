@@ -62,7 +62,7 @@ class Arghya : Developer {
 **Development Tools & Technologies**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,android,firebase,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,firebase,git,github,vscode" />
 </p>
 
 **Databases**
@@ -200,7 +200,7 @@ A cloud-based pharmacy management solution designed to manage pharmacy operation
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1500&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+today.+Innovating+tomorrow.;Thanks+for+stopping+by!+%F0%9F%91%8B" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&lines=Driven+by+curiosity,+committed+to+growth.;Building+the+future,+one+line+of+code+at+a+time." />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=120&section=footer" />
