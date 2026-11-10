@@ -87,33 +87,33 @@ class Arghya : Developer {
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-## 💼 Professional Experience
+## Professional Experience
 
-### 🟢 Associate Software Developer · Bdjobs.com Ltd.
+### Associate Software Developer · Bdjobs.com Ltd.
 `October 2026 – Present`
 
-- 📱 Developing and maintaining the production **Bdjobs Android application**
-- ⚡ Implementing mobile features using **Kotlin and Java**
-- 🔌 Integrating **REST APIs and .NET backend services**
-- 🎨 Improving application UI, functionality, and user experience
-- 🐞 Investigating and resolving bugs while maintaining application stability
+- Developing and maintaining the production **Bdjobs Android application**
+- Implementing mobile features using **Kotlin and Java**
+- Integrating **REST APIs and .NET backend services**
+- Improving application UI, functionality, and user experience
+- Investigating and resolving bugs while maintaining application stability
 
-### 🔵 Software Development Intern · Pyroferus Technologies
+### Software Development Intern · Pyroferus Technologies
 `February 2024 – April 2024`
 
-- 🛠️ Worked on real-world software development tasks
-- 🤝 Gained experience with team collaboration and development workflows
-- 🔄 Participated in end-to-end software development activities
+- Worked on real-world software development tasks
+- Gained experience with team collaboration and development workflows
+- Participated in end-to-end software development activities
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 YOLO – E-Learning Platform
+### YOLO – E-Learning Platform
 A multilingual e-learning application providing structured courses, hands-on learning experiences, and certification.
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
@@ -124,7 +124,7 @@ A multilingual e-learning application providing structured courses, hands-on lea
 </td>
 <td width="50%" valign="top">
 
-### 🏥 SecureEHR – Healthcare Management
+### SecureEHR – Healthcare Management
 A healthcare application focused on secure electronic health records, document processing, and data protection.
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
@@ -138,7 +138,7 @@ A healthcare application focused on secure electronic health records, document p
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Web3 Decentralized Application
+### Web3 Decentralized Application
 A decentralized application exploring blockchain technology and Web3 concepts.
 
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=ethereum&logoColor=white)
@@ -148,7 +148,7 @@ A decentralized application exploring blockchain technology and Web3 concepts.
 </td>
 <td width="50%" valign="top">
 
-### 💊 Cloud Pharmacy Management System
+### Cloud Pharmacy Management System
 A cloud-based pharmacy management solution designed to manage pharmacy operations and data.
 
 ![Cloud](https://img.shields.io/badge/Cloud-0078D4?style=flat-square&logo=icloud&logoColor=white)
@@ -161,7 +161,7 @@ A cloud-based pharmacy management solution designed to manage pharmacy operation
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-## 🏆 Achievements & Certifications
+## Achievements & Certifications
 
 - 🥇 **Outstanding Student Award – 2024**
 - 🎓 Google Professional Certifications
