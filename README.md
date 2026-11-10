@@ -1,5 +1,5 @@
 <!-- ═══════════════ ANIMATED HEADER ═══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=240&section=header&text=Arghya%20Bose&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Associate%20Software%20Developer%20%7C%20Android%20Developer%20%7C%20Software%20Engineer&descSize=18&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=240&section=header&text=ARGHYA%20BOSE&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Associate%20Software%20Developer%20%7C%20Android%20Developer%20%7C%20Software%20Engineer&descSize=18&descAlignY=58" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=760&height=50&lines=%F0%9F%93%B1+Android+Application+Developer;%E2%98%95+Kotlin+%7C+Java+Developer;%F0%9F%9A%80+Building+Real-World+Applications;%F0%9F%A7%A0+Software+Engineering+Enthusiast;%E2%9A%99%EF%B8%8F+Exploring+Spring+Boot+%26+Backend" alt="Typing animation" />
