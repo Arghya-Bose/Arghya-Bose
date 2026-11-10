@@ -191,7 +191,7 @@ A cloud-based pharmacy management solution designed to manage pharmacy operation
   <a href="https://github.com/Arghya-Bose">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/arghya--bose/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:bosearghya83@gmail.com">
