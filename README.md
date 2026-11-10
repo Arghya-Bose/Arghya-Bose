@@ -1,4 +1,3 @@
-<!-- ═══════════════ ANIMATED HEADER ═══════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=240&section=header&text=ARGHYA%20BOSE&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Associate%20Software%20Developer%20%7C%20Android%20Developer%20%7C%20Software%20Engineer&descSize=18&descAlignY=58" />
 
 <p align="center">
@@ -16,7 +15,7 @@
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-## 👨‍💻 About Me
+## About Me
 
 <table>
 <tr>
@@ -176,30 +175,18 @@ A cloud-based pharmacy management solution designed to manage pharmacy operation
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Arghya-Bose&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arghya-Bose&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Arghya-Bose&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Statistics" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Arghya-Bose&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arghya-Bose&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arghya-Bose&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Arghya-Bose/Arghya-Bose/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
-
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-## 🤝 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://github.com/Arghya-Bose">
@@ -217,5 +204,4 @@ A cloud-based pharmacy management solution designed to manage pharmacy operation
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1500&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+today.+Innovating+tomorrow.;Thanks+for+stopping+by!+%F0%9F%91%8B" />
 </p>
 
-<!-- ═══════════════ ANIMATED FOOTER ═══════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=120&section=footer" />
