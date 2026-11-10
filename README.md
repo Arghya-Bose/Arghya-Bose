@@ -28,7 +28,7 @@ I'm a **Computer Science and Engineering graduate** and an **Associate Software 
 class Arghya : Developer {
     val role     = "Associate Software Developer"
     val company  = "Bdjobs.com Ltd."
-    val stack    = listOf("Kotlin", "Java", "Firebase", "REST APIs")
+    val stack    = listOf("Kotlin", "Java", "REST APIs")
     val exploring = listOf("Spring Boot", "ML", "Blockchain", "Cloud")
 
     override fun mindset() = "Clean code • Problem-solving • Always learning"
@@ -38,11 +38,11 @@ class Arghya : Developer {
 </td>
 <td width="40%" valign="top">
 
-- 📱 Building & maintaining **production Android apps**
-- 🧩 Kotlin & Java, REST API integration, Firebase
-- 🤖 Interested in **ML, Blockchain & Cloud**
-- 🌱 Exploring backend with **Java & Spring Boot**
-- ✨ Focused on clean code and continuous learning
+- Building & maintaining **production Android apps**
+- Kotlin & Java, REST API integration, Firebase
+- Interested in **ML, Blockchain & Cloud**
+- Exploring backend with **Java & Spring Boot**
+- Focused on clean code and continuous learning
 
 </td>
 </tr>
@@ -50,12 +50,12 @@ class Arghya : Developer {
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Programming Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,java,python,c,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,python,c,js" />
 </p>
 
 **Development Tools & Technologies**
@@ -67,7 +67,7 @@ class Arghya : Developer {
 **Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
 **Additional Technologies**
