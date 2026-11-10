@@ -1,4 +1,4 @@
-# Hi, I'm Arghya Bose 👋
+# Hi, I'm Arghya Bose
 
 ### Associate Software Developer | Android Developer
 
