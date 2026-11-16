@@ -89,7 +89,7 @@
 <div align="center">
 
 <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Arghya-Bose&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=14B8A6&text_color=C9D1D9" alt="GitHub Stats" />
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Arghya-Bose&layout=compact&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=C9D1D9" alt="Top Languages" />
+<img width="49%" src="assets/top-languages.svg" alt="Top languages: Java 60%, Kotlin 20%, JavaScript 5%, Python 3%, Jupyter Notebook 3%, SQL 3%, Others 6%" />
 
 <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arghya-Bose&hide_border=true&background=0D1117&ring=14B8A6&fire=2DD4BF&currStreakLabel=2DD4BF&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=A7F3D0&dates=8B949E" alt="Streak" />
 
