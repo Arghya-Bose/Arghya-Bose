@@ -1,19 +1,18 @@
-<!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
-<img src="assets/header.svg" width="100%" alt="Arghya Bose - Android Developer" />
 
+<img src="assets/header.svg" width="100%" alt="Arghya Bose - Android Developer" />
 
 <img src="assets/typing.svg" width="820" alt="Mobile App Developer | Kotlin | Java | REST APIs | Firebase" />
 <br/>
+
+<img src="assets/views-left.svg" height="28" alt="" /><img src="https://komarev.com/ghpvc/?username=Arghya-Bose&label=Profile%20Views&color=0D9488&style=for-the-badge" height="28" alt="Profile views" /><img src="assets/views-right.svg" height="28" alt="" />
 
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-
 <!-- ═══════════════ ABOUT ═══════════════ -->
 <img src="assets/section-01.svg" width="100%" alt="About Me" />
-<img src="assets/views-left.svg" height="28" alt="" /><img src="https://komarev.com/ghpvc/?username=Arghya-Bose&label=Profile%20Views&color=0D9488&style=for-the-badge" height="28" alt="Profile views" /><img src="assets/views-right.svg" height="28" alt="" />
 
 <img src="assets/about-bio.svg" width="100%" alt="I'm a Computer Science & Engineering graduate and a Mobile App Developer at Bdjobs.com Ltd., passionate about building reliable, scalable and user-friendly software." />
 
