@@ -7,14 +7,6 @@
 
 <br/>
 
-<img src="assets/hero-info.svg" width="100%" alt="Role: Mobile App Developer, Company: Bdjobs.com Ltd., Location: Bangladesh" />
-
-<br/>
-
-<a href="https://www.linkedin.com/in/arghya--bose/"><img src="assets/btn-linkedin.svg" width="190" alt="LinkedIn" /></a>
-<a href="mailto:bosearghya83@gmail.com"><img src="assets/btn-email.svg" width="190" alt="Email" /></a>
-<a href="https://github.com/Arghya-Bose?tab=repositories"><img src="assets/btn-repos.svg" width="190" alt="Repositories" /></a>
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Arghya-Bose&label=Profile%20Views&color=0D9488&style=for-the-badge" alt="Profile views" />
@@ -107,17 +99,17 @@
 
 <!-- ═══════════════ CONTACT ═══════════════ -->
 <img src="assets/section-07.svg" width="100%" alt="Let's Connect" />
-
 <div align="center">
-
 <a href="https://github.com/Arghya-Bose"><img src="assets/btn-github.svg" width="190" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/arghya--bose/"><img src="assets/btn-linkedin.svg" width="190" alt="LinkedIn" /></a>
 <a href="mailto:bosearghya83@gmail.com"><img src="assets/btn-email.svg" width="190" alt="Email" /></a>
+<a href="https://github.com/Arghya-Bose?tab=repositories"><img src="assets/btn-repos.svg" width="190" alt="Repositories" /></a>
 
 <br/>
 
-<img src="assets/typing-quote.svg" width="820" alt="Driven by curiosity, committed to growth." />
+
 
 </div>
+<img src="assets/hero-info.svg" width="100%" alt="Role: Mobile App Developer, Company: Bdjobs.com Ltd., Location: Bangladesh" /> 
 
 <img src="assets/footer.svg" width="100%" alt="" />
