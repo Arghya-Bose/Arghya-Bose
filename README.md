@@ -77,9 +77,15 @@
 </tr>
 </table>
 
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arghya-Bose&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
+  <img
+    src="https://github-trophies.devomb.com/?username=Arghya-Bose&theme=onedark&no-frame=true&no-bg=true&row=1&column=1&margin-w=8"
+    alt="GitHub Trophies"
+    width="10%"
+  />
 </div>
+
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
