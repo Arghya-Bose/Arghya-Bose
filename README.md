@@ -1,15 +1,10 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
-
 <img src="assets/header.svg" width="100%" alt="Arghya Bose - Android Developer" />
 
+
 <img src="assets/typing.svg" width="820" alt="Mobile App Developer | Kotlin | Java | REST APIs | Firebase" />
-
 <br/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Arghya-Bose&label=Profile%20Views&color=0D9488&style=for-the-badge" alt="Profile views" />
 
 </div>
 
